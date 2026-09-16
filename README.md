@@ -8,8 +8,9 @@ cargo run
 
 ## Crew name
 
-_not chosen yet_
+Bestest crew
 
 ## Members
 
-- _nobody has signed on yet_
+- Savva
+- 
