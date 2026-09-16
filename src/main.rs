@@ -2,7 +2,10 @@
 const CREW_NAME: &str = "the unnamed crew";
 
 /// Your crew's motto. You will both change this one too, earlier and separately.
-const MOTTO: &str = "be good lol";
+<<<<<<< HEAD
+
+const MOTTO: &str = "if it works don't touch it";
+
 
 fn main() {
     println!("=== {} ===", CREW_NAME);
