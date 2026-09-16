@@ -8,8 +8,8 @@ cargo run
 
 ## Crew name
 
-_not chosen yet_
-
+Crew's crew
 ## Members
+Ilia
 
 - _nobody has signed on yet_
