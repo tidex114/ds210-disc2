@@ -7,9 +7,11 @@ cargo run
 ```
 
 ## Crew name
+savva-crew,
+Bestest crew, and Crew's crew
 
-Crew's crew
 ## Members
 Ilia
 
-- _nobody has signed on yet_
+- Savva
+- 
